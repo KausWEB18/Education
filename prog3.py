@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import linear_kernel
 from sklearn.neighbors import NearestNeighbors
 
 # Define your YouTube API key here
-API_KEY = 'AIzaSyA4sLLyGgPGnpxgTOg-VBPf41JVVP-zdSY'
+API_KEY = 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
